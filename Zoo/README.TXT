@@ -12,5 +12,3 @@ AUTHORS:
 USER INSTRUCTIONS:
 
 
-032=cubo 
-qjue es un dato mutable y que es un dato inmutable y ejemplo de cada uno de ellos 
