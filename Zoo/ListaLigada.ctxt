@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListaLigada
+comment1.params=
+comment1.target=ListaLigada()
+comment2.params=animal
+comment2.target=void\ agregarInicio(Zoologico)
+comment3.params=animal
+comment3.target=void\ agregarFinal(Zoologico)
+comment4.params=nombre
+comment4.target=boolean\ eliminarPorNombre(java.lang.String)
+comment5.params=
+comment5.target=void\ mostrarLista()
+numComments=6

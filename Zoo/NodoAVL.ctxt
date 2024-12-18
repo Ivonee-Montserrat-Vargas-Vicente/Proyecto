@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=NodoAVL
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ j\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=animal
+comment1.target=NodoAVL(Zoologico)
+comment2.params=
+comment2.target=Zoologico\ getAnimal()
+comment3.params=animal
+comment3.target=void\ setAnimal(Zoologico)
+comment4.params=
+comment4.target=NodoAVL\ getIzquierdo()
+comment5.params=izquierdo
+comment5.target=void\ setIzquierdo(NodoAVL)
+comment6.params=
+comment6.target=NodoAVL\ getDerecho()
+comment7.params=derecho
+comment7.target=void\ setDerecho(NodoAVL)
+comment8.params=
+comment8.target=int\ getAltura()
+comment9.params=altura
+comment9.target=void\ setAltura(int)
+numComments=10
